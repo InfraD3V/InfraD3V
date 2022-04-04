@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @InfraD3V
+- 👀 I’m interested in programming, server managament and developement
+- 🌱 I’m currently learning SMX and Programming stuff
+- 💞️ I’m looking to collaborate on Servers, and programming stuff
+- 📫 How to reach me: gtaagat@gmail.com
